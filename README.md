@@ -10,4 +10,6 @@ It gives information about the product and contact detail of the staroverseas is
 
 This app is build in xcode 8 and swift 3.
 All the images of the product are stored in firebase storage and from there it is retrieved.
-Images are mentained in the tableview using SDWEBImages
+Images are maintained in the tableview using SDWebImages.
+App performance is upto to the mark and till now there is no bug.
+
